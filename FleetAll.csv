@@ -1,0 +1,403 @@
+﻿Vehicle Category,GVWR Class,Fuel Type,Model Year,MPO,Vehicle Population
+MC,Not Applicable,Diesel,Unknown,MTC,1
+MC,Not Applicable,Diesel,1979,MTC,1
+MC,Not Applicable,Diesel,1992,MTC,1
+MC,Not Applicable,Diesel,1993,MTC,1
+MC,Not Applicable,Diesel,1999,MTC,1
+MC,Not Applicable,Diesel,2000,MTC,3
+MC,Not Applicable,Diesel,2001,MTC,3
+MC,Not Applicable,Diesel,2002,MTC,1
+MC,Not Applicable,Diesel,2003,MTC,2
+MC,Not Applicable,Diesel,2004,MTC,2
+MC,Not Applicable,Diesel,2005,MTC,5
+MC,Not Applicable,Diesel,2006,MTC,2
+MC,Not Applicable,Diesel,2007,MTC,3
+MC,Not Applicable,Diesel,2008,MTC,2
+MC,Not Applicable,Diesel,2009,MTC,3
+MC,Not Applicable,Diesel,2011,MTC,2
+MC,Not Applicable,Diesel,2012,MTC,1
+MC,Not Applicable,Diesel,2013,MTC,1
+MC,Not Applicable,Diesel,2016,MTC,1
+MC,Not Applicable,Diesel,2018,MTC,1
+MC,Not Applicable,Electric,Unknown,MTC,6
+MC,Not Applicable,Electric,1977,MTC,1
+MC,Not Applicable,Electric,1992,MTC,1
+MC,Not Applicable,Electric,1993,MTC,10
+MC,Not Applicable,Electric,1994,MTC,1
+MC,Not Applicable,Electric,1996,MTC,4
+MC,Not Applicable,Electric,1999,MTC,1
+MC,Not Applicable,Electric,2000,MTC,4
+MC,Not Applicable,Electric,2001,MTC,2
+MC,Not Applicable,Electric,2002,MTC,1
+MC,Not Applicable,Electric,2003,MTC,1
+MC,Not Applicable,Electric,2004,MTC,1
+MC,Not Applicable,Electric,2006,MTC,1
+MC,Not Applicable,Electric,2007,MTC,8
+MC,Not Applicable,Electric,2008,MTC,8
+MC,Not Applicable,Electric,2009,MTC,3
+MC,Not Applicable,Electric,2010,MTC,8
+MC,Not Applicable,Electric,2011,MTC,10
+MC,Not Applicable,Electric,2012,MTC,5
+MC,Not Applicable,Electric,2013,MTC,26
+MC,Not Applicable,Electric,2014,MTC,29
+MC,Not Applicable,Electric,2015,MTC,34
+MC,Not Applicable,Electric,2016,MTC,70
+MC,Not Applicable,Electric,2017,MTC,90
+MC,Not Applicable,Electric,2018,MTC,98
+MC,Not Applicable,Electric,2019,MTC,60
+MC,Not Applicable,Electric,2020,MTC,115
+MC,Not Applicable,Electric,2021,MTC,8
+MC,Not Applicable,Gasoline,Unknown,MTC,812
+MC,Not Applicable,Gasoline,1975,MTC,5356
+MC,Not Applicable,Gasoline,1976,MTC,358
+MC,Not Applicable,Gasoline,1977,MTC,343
+MC,Not Applicable,Gasoline,1978,MTC,512
+MC,Not Applicable,Gasoline,1979,MTC,561
+MC,Not Applicable,Gasoline,1980,MTC,491
+MC,Not Applicable,Gasoline,1981,MTC,545
+MC,Not Applicable,Gasoline,1982,MTC,607
+MC,Not Applicable,Gasoline,1983,MTC,531
+MC,Not Applicable,Gasoline,1984,MTC,508
+MC,Not Applicable,Gasoline,1985,MTC,689
+MC,Not Applicable,Gasoline,1986,MTC,844
+MC,Not Applicable,Gasoline,1987,MTC,697
+MC,Not Applicable,Gasoline,1988,MTC,599
+MC,Not Applicable,Gasoline,1989,MTC,736
+MC,Not Applicable,Gasoline,1990,MTC,709
+MC,Not Applicable,Gasoline,1991,MTC,763
+MC,Not Applicable,Gasoline,1992,MTC,799
+MC,Not Applicable,Gasoline,1993,MTC,863
+MC,Not Applicable,Gasoline,1994,MTC,882
+MC,Not Applicable,Gasoline,1995,MTC,974
+MC,Not Applicable,Gasoline,1996,MTC,1276
+MC,Not Applicable,Gasoline,1997,MTC,1246
+MC,Not Applicable,Gasoline,1998,MTC,1641
+MC,Not Applicable,Gasoline,1999,MTC,2319
+MC,Not Applicable,Gasoline,2000,MTC,3285
+MC,Not Applicable,Gasoline,2001,MTC,4354
+MC,Not Applicable,Gasoline,2002,MTC,4882
+MC,Not Applicable,Gasoline,2003,MTC,5398
+MC,Not Applicable,Gasoline,2004,MTC,4587
+MC,Not Applicable,Gasoline,2005,MTC,6032
+MC,Not Applicable,Gasoline,2006,MTC,7402
+MC,Not Applicable,Gasoline,2007,MTC,8115
+MC,Not Applicable,Gasoline,2008,MTC,5728
+MC,Not Applicable,Gasoline,2009,MTC,6518
+MC,Not Applicable,Gasoline,2010,MTC,2589
+MC,Not Applicable,Gasoline,2011,MTC,2813
+MC,Not Applicable,Gasoline,2012,MTC,4600
+MC,Not Applicable,Gasoline,2013,MTC,5734
+MC,Not Applicable,Gasoline,2014,MTC,6205
+MC,Not Applicable,Gasoline,2015,MTC,7316
+MC,Not Applicable,Gasoline,2016,MTC,7279
+MC,Not Applicable,Gasoline,2017,MTC,6835
+MC,Not Applicable,Gasoline,2018,MTC,7305
+MC,Not Applicable,Gasoline,2019,MTC,6627
+MC,Not Applicable,Gasoline,2020,MTC,5378
+MC,Not Applicable,Gasoline,2021,MTC,157
+P,Not Applicable,Diesel,Unknown,MTC,5
+P,Not Applicable,Diesel,1975,MTC,105
+P,Not Applicable,Diesel,1976,MTC,36
+P,Not Applicable,Diesel,1977,MTC,55
+P,Not Applicable,Diesel,1978,MTC,86
+P,Not Applicable,Diesel,1979,MTC,170
+P,Not Applicable,Diesel,1980,MTC,197
+P,Not Applicable,Diesel,1981,MTC,289
+P,Not Applicable,Diesel,1982,MTC,351
+P,Not Applicable,Diesel,1983,MTC,426
+P,Not Applicable,Diesel,1984,MTC,363
+P,Not Applicable,Diesel,1985,MTC,381
+P,Not Applicable,Diesel,1986,MTC,65
+P,Not Applicable,Diesel,1987,MTC,181
+P,Not Applicable,Diesel,1988,MTC,5
+P,Not Applicable,Diesel,1989,MTC,5
+P,Not Applicable,Diesel,1990,MTC,10
+P,Not Applicable,Diesel,1991,MTC,22
+P,Not Applicable,Diesel,1992,MTC,19
+P,Not Applicable,Diesel,1993,MTC,13
+P,Not Applicable,Diesel,1994,MTC,10
+P,Not Applicable,Diesel,1995,MTC,81
+P,Not Applicable,Diesel,1996,MTC,69
+P,Not Applicable,Diesel,1997,MTC,63
+P,Not Applicable,Diesel,1998,MTC,119
+P,Not Applicable,Diesel,1999,MTC,134
+P,Not Applicable,Diesel,2000,MTC,96
+P,Not Applicable,Diesel,2001,MTC,98
+P,Not Applicable,Diesel,2002,MTC,245
+P,Not Applicable,Diesel,2003,MTC,385
+P,Not Applicable,Diesel,2004,MTC,156
+P,Not Applicable,Diesel,2005,MTC,356
+P,Not Applicable,Diesel,2006,MTC,281
+P,Not Applicable,Diesel,2007,MTC,60
+P,Not Applicable,Diesel,2008,MTC,85
+P,Not Applicable,Diesel,2009,MTC,237
+P,Not Applicable,Diesel,2010,MTC,269
+P,Not Applicable,Diesel,2011,MTC,940
+P,Not Applicable,Diesel,2012,MTC,715
+P,Not Applicable,Diesel,2013,MTC,916
+P,Not Applicable,Diesel,2014,MTC,2094
+P,Not Applicable,Diesel,2015,MTC,2004
+P,Not Applicable,Diesel,2016,MTC,353
+P,Not Applicable,Diesel,2017,MTC,203
+P,Not Applicable,Diesel,2018,MTC,268
+P,Not Applicable,Diesel,2019,MTC,17
+P,Not Applicable,Diesel,2020,MTC,1
+P,Not Applicable,Electric,Unknown,MTC,6
+P,Not Applicable,Electric,1975,MTC,8
+P,Not Applicable,Electric,1976,MTC,1
+P,Not Applicable,Electric,1980,MTC,3
+P,Not Applicable,Electric,1989,MTC,1
+P,Not Applicable,Electric,1995,MTC,1
+P,Not Applicable,Electric,1997,MTC,1
+P,Not Applicable,Electric,1998,MTC,2
+P,Not Applicable,Electric,1999,MTC,1
+P,Not Applicable,Electric,2000,MTC,1
+P,Not Applicable,Electric,2001,MTC,1
+P,Not Applicable,Electric,2002,MTC,7
+P,Not Applicable,Electric,2004,MTC,2
+P,Not Applicable,Electric,2005,MTC,2
+P,Not Applicable,Electric,2006,MTC,1
+P,Not Applicable,Electric,2007,MTC,4
+P,Not Applicable,Electric,2008,MTC,111
+P,Not Applicable,Electric,2009,MTC,13
+P,Not Applicable,Electric,2010,MTC,88
+P,Not Applicable,Electric,2011,MTC,1142
+P,Not Applicable,Electric,2012,MTC,1485
+P,Not Applicable,Electric,2013,MTC,4410
+P,Not Applicable,Electric,2014,MTC,4630
+P,Not Applicable,Electric,2015,MTC,6634
+P,Not Applicable,Electric,2016,MTC,9121
+P,Not Applicable,Electric,2017,MTC,14922
+P,Not Applicable,Electric,2018,MTC,37489
+P,Not Applicable,Electric,2019,MTC,28326
+P,Not Applicable,Electric,2020,MTC,20627
+P,Not Applicable,Electric,2021,MTC,73
+P,Not Applicable,Gasoline,Unknown,MTC,884
+P,Not Applicable,Gasoline,1975,MTC,76047
+P,Not Applicable,Gasoline,1976,MTC,1217
+P,Not Applicable,Gasoline,1977,MTC,1168
+P,Not Applicable,Gasoline,1978,MTC,1270
+P,Not Applicable,Gasoline,1979,MTC,1407
+P,Not Applicable,Gasoline,1980,MTC,847
+P,Not Applicable,Gasoline,1981,MTC,896
+P,Not Applicable,Gasoline,1982,MTC,915
+P,Not Applicable,Gasoline,1983,MTC,1288
+P,Not Applicable,Gasoline,1984,MTC,1807
+P,Not Applicable,Gasoline,1985,MTC,2436
+P,Not Applicable,Gasoline,1986,MTC,2955
+P,Not Applicable,Gasoline,1987,MTC,3693
+P,Not Applicable,Gasoline,1988,MTC,3625
+P,Not Applicable,Gasoline,1989,MTC,4420
+P,Not Applicable,Gasoline,1990,MTC,5969
+P,Not Applicable,Gasoline,1991,MTC,7800
+P,Not Applicable,Gasoline,1992,MTC,6889
+P,Not Applicable,Gasoline,1993,MTC,8303
+P,Not Applicable,Gasoline,1994,MTC,10210
+P,Not Applicable,Gasoline,1995,MTC,15502
+P,Not Applicable,Gasoline,1996,MTC,16610
+P,Not Applicable,Gasoline,1997,MTC,25336
+P,Not Applicable,Gasoline,1998,MTC,32855
+P,Not Applicable,Gasoline,1999,MTC,40167
+P,Not Applicable,Gasoline,2000,MTC,53866
+P,Not Applicable,Gasoline,2001,MTC,62202
+P,Not Applicable,Gasoline,2002,MTC,64137
+P,Not Applicable,Gasoline,2003,MTC,74369
+P,Not Applicable,Gasoline,2004,MTC,77192
+P,Not Applicable,Gasoline,2005,MTC,93531
+P,Not Applicable,Gasoline,2006,MTC,100053
+P,Not Applicable,Gasoline,2007,MTC,116450
+P,Not Applicable,Gasoline,2008,MTC,99942
+P,Not Applicable,Gasoline,2009,MTC,82344
+P,Not Applicable,Gasoline,2010,MTC,101445
+P,Not Applicable,Gasoline,2011,MTC,96398
+P,Not Applicable,Gasoline,2012,MTC,137219
+P,Not Applicable,Gasoline,2013,MTC,169507
+P,Not Applicable,Gasoline,2014,MTC,164326
+P,Not Applicable,Gasoline,2015,MTC,185508
+P,Not Applicable,Gasoline,2016,MTC,180468
+P,Not Applicable,Gasoline,2017,MTC,180264
+P,Not Applicable,Gasoline,2018,MTC,164650
+P,Not Applicable,Gasoline,2019,MTC,148086
+P,Not Applicable,Gasoline,2020,MTC,84140
+P,Not Applicable,Gasoline,2021,MTC,1354
+T1,Unknown,Diesel,Unknown,MTC,2
+T1,Unknown,Electric,2002,MTC,9
+T1,Unknown,Gasoline,Unknown,MTC,163
+T1,Unknown,Gasoline,1975,MTC,748
+T1,Unknown,Gasoline,1979,MTC,2
+T1,Unknown,Gasoline,1999,MTC,1
+T1,Unknown,Gasoline,2002,MTC,1
+T1,1,Diesel,1981,MTC,11
+T1,1,Diesel,1982,MTC,130
+T1,1,Diesel,1983,MTC,35
+T1,1,Diesel,1984,MTC,32
+T1,1,Diesel,1985,MTC,23
+T1,1,Diesel,1986,MTC,4
+T1,1,Diesel,1987,MTC,2
+T1,1,Electric,1997,MTC,1
+T1,1,Electric,1998,MTC,5
+T1,1,Electric,1999,MTC,24
+T1,1,Electric,2000,MTC,19
+T1,1,Electric,2001,MTC,3
+T1,1,Electric,2012,MTC,123
+T1,1,Electric,2013,MTC,154
+T1,1,Electric,2014,MTC,223
+T1,1,Gasoline,1975,MTC,3976
+T1,1,Gasoline,1976,MTC,139
+T1,1,Gasoline,1977,MTC,192
+T1,1,Gasoline,1978,MTC,259
+T1,1,Gasoline,1979,MTC,272
+T1,1,Gasoline,1980,MTC,205
+T1,1,Gasoline,1981,MTC,276
+T1,1,Gasoline,1982,MTC,399
+T1,1,Gasoline,1983,MTC,502
+T1,1,Gasoline,1984,MTC,931
+T1,1,Gasoline,1985,MTC,1385
+T1,1,Gasoline,1986,MTC,1991
+T1,1,Gasoline,1987,MTC,1893
+T1,1,Gasoline,1988,MTC,1775
+T1,1,Gasoline,1989,MTC,2560
+T1,1,Gasoline,1990,MTC,2466
+T1,1,Gasoline,1991,MTC,3308
+T1,1,Gasoline,1992,MTC,2847
+T1,1,Gasoline,1993,MTC,4118
+T1,1,Gasoline,1994,MTC,5064
+T1,1,Gasoline,1995,MTC,4906
+T1,1,Gasoline,1996,MTC,6460
+T1,1,Gasoline,1997,MTC,7815
+T1,1,Gasoline,1998,MTC,9473
+T1,1,Gasoline,1999,MTC,8767
+T1,1,Gasoline,2000,MTC,9150
+T1,1,Gasoline,2001,MTC,9771
+T1,1,Gasoline,2002,MTC,10615
+T1,1,Gasoline,2003,MTC,6600
+T1,1,Gasoline,2004,MTC,5656
+T1,1,Gasoline,2005,MTC,4197
+T1,1,Gasoline,2006,MTC,7160
+T1,1,Gasoline,2007,MTC,8894
+T1,1,Gasoline,2008,MTC,13751
+T1,1,Gasoline,2009,MTC,11955
+T1,1,Gasoline,2010,MTC,2494
+T1,1,Gasoline,2011,MTC,2099
+T1,1,Gasoline,2012,MTC,9070
+T1,1,Gasoline,2013,MTC,11777
+T1,1,Gasoline,2014,MTC,8704
+T1,1,Gasoline,2015,MTC,29045
+T1,1,Gasoline,2016,MTC,22592
+T1,1,Gasoline,2017,MTC,10231
+T1,1,Gasoline,2018,MTC,16280
+T1,1,Gasoline,2019,MTC,10693
+T1,1,Gasoline,2020,MTC,4949
+T1,1,Gasoline,2021,MTC,683
+T2,Unknown,Diesel,1975,MTC,1
+T2,Unknown,Diesel,1977,MTC,1
+T2,Unknown,Diesel,1985,MTC,2
+T2,Unknown,Diesel,1993,MTC,2
+T2,Unknown,Diesel,1999,MTC,1
+T2,Unknown,Electric,2015,MTC,1
+T2,Unknown,Gasoline,Unknown,MTC,55
+T2,Unknown,Gasoline,1975,MTC,2453
+T2,Unknown,Gasoline,1979,MTC,1
+T2,Unknown,Gasoline,1983,MTC,1
+T2,Unknown,Gasoline,1984,MTC,1
+T2,Unknown,Gasoline,1989,MTC,1
+T2,Unknown,Gasoline,1993,MTC,1
+T2,Unknown,Gasoline,1994,MTC,1
+T2,Unknown,Gasoline,1998,MTC,1
+T2,Unknown,Gasoline,2003,MTC,107
+T2,Unknown,Gasoline,2004,MTC,440
+T2,Unknown,Gasoline,2005,MTC,266
+T2,Unknown,Gasoline,2006,MTC,1
+T2,Unknown,Gasoline,2009,MTC,1
+T2,Unknown,Gasoline,2011,MTC,1
+T2,Unknown,Gasoline,2012,MTC,1
+T2,Unknown,Gasoline,2013,MTC,2
+T2,Unknown,Gasoline,2014,MTC,1
+T2,Unknown,Gasoline,2017,MTC,1
+T2,Unknown,Gasoline,2018,MTC,1
+T2,1,Diesel,1975,MTC,29
+T2,1,Diesel,1976,MTC,1
+T2,1,Diesel,1978,MTC,6
+T2,1,Diesel,1979,MTC,16
+T2,1,Diesel,1980,MTC,10
+T2,1,Diesel,1981,MTC,3
+T2,1,Diesel,1982,MTC,15
+T2,1,Diesel,1983,MTC,11
+T2,1,Diesel,1984,MTC,6
+T2,1,Diesel,1985,MTC,4
+T2,1,Diesel,1986,MTC,1
+T2,1,Diesel,1987,MTC,3
+T2,1,Diesel,1988,MTC,2
+T2,1,Diesel,1989,MTC,1
+T2,1,Diesel,1991,MTC,1
+T2,1,Diesel,2001,MTC,1
+T2,1,Diesel,2005,MTC,32
+T2,1,Diesel,2006,MTC,24
+T2,1,Diesel,2007,MTC,37
+T2,1,Diesel,2008,MTC,46
+T2,1,Diesel,2009,MTC,100
+T2,1,Diesel,2010,MTC,56
+T2,1,Diesel,2011,MTC,86
+T2,1,Diesel,2012,MTC,172
+T2,1,Diesel,2013,MTC,190
+T2,1,Diesel,2014,MTC,674
+T2,1,Diesel,2015,MTC,744
+T2,1,Diesel,2016,MTC,456
+T2,1,Diesel,2017,MTC,222
+T2,1,Diesel,2018,MTC,221
+T2,1,Diesel,2019,MTC,86
+T2,1,Diesel,2020,MTC,34
+T2,1,Electric,1999,MTC,2
+T2,1,Electric,2002,MTC,34
+T2,1,Electric,2003,MTC,13
+T2,1,Electric,2011,MTC,1
+T2,1,Electric,2012,MTC,10
+T2,1,Electric,2019,MTC,269
+T2,1,Electric,2020,MTC,100
+T2,1,Gasoline,1975,MTC,6438
+T2,1,Gasoline,1976,MTC,222
+T2,1,Gasoline,1977,MTC,128
+T2,1,Gasoline,1978,MTC,137
+T2,1,Gasoline,1979,MTC,98
+T2,1,Gasoline,1980,MTC,48
+T2,1,Gasoline,1981,MTC,133
+T2,1,Gasoline,1982,MTC,121
+T2,1,Gasoline,1983,MTC,235
+T2,1,Gasoline,1984,MTC,434
+T2,1,Gasoline,1985,MTC,246
+T2,1,Gasoline,1986,MTC,695
+T2,1,Gasoline,1987,MTC,795
+T2,1,Gasoline,1988,MTC,1109
+T2,1,Gasoline,1989,MTC,1475
+T2,1,Gasoline,1990,MTC,2065
+T2,1,Gasoline,1991,MTC,2024
+T2,1,Gasoline,1992,MTC,1871
+T2,1,Gasoline,1993,MTC,2384
+T2,1,Gasoline,1994,MTC,2504
+T2,1,Gasoline,1995,MTC,3947
+T2,1,Gasoline,1996,MTC,3867
+T2,1,Gasoline,1997,MTC,9203
+T2,1,Gasoline,1998,MTC,11627
+T2,1,Gasoline,1999,MTC,15573
+T2,1,Gasoline,2000,MTC,24108
+T2,1,Gasoline,2001,MTC,26612
+T2,1,Gasoline,2002,MTC,29044
+T2,1,Gasoline,2003,MTC,33809
+T2,1,Gasoline,2004,MTC,44537
+T2,1,Gasoline,2005,MTC,49559
+T2,1,Gasoline,2006,MTC,51438
+T2,1,Gasoline,2007,MTC,47602
+T2,1,Gasoline,2008,MTC,34813
+T2,1,Gasoline,2009,MTC,17416
+T2,1,Gasoline,2010,MTC,38169
+T2,1,Gasoline,2011,MTC,47375
+T2,1,Gasoline,2012,MTC,38817
+T2,1,Gasoline,2013,MTC,55237
+T2,1,Gasoline,2014,MTC,59587
+T2,1,Gasoline,2015,MTC,63843
+T2,1,Gasoline,2016,MTC,71694
+T2,1,Gasoline,2017,MTC,95789
+T2,1,Gasoline,2018,MTC,99834
+T2,1,Gasoline,2019,MTC,100730
+T2,1,Gasoline,2020,MTC,71194
+T2,1,Gasoline,2021,MTC,1014

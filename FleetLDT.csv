@@ -1,0 +1,29 @@
+﻿Source,"CARB Fleet Web Database"
+"Region type",MPO
+Region,MTC
+"Calendar Year",2020
+"Vehicle Category","P, Passenger Cars","T1, Light-duty trucks (GVWR <6000 lbs, ETW ≤3750 lbs)","T2, Light-duty trucks (GVWR <6000 lbs, ETW 3751–5750 lbs)","MC, Motorcycles"
+"GVWR Class output",Yes
+"Fuel Type",Gasoline,Electric
+"Fuel Technology",ICE,BEV,FCEV,PHEV
+"Electric Mile Range",Aggregate
+"Model Year",Aggregate
+"Number of Vehicles Registered at the Same Address",Aggregate
+"Vehicle Population Output Aggregation",Aggregate
+
+"Vehicle Category","GVWR Class","Fuel Type","Fuel Technology",MPO,"Vehicle Population"
+MC,"Not Applicable",Electric,BEV,MTC,606
+MC,"Not Applicable",Gasoline,ICE,MTC,144800
+P,"Not Applicable",Electric,BEV,MTC,129113
+P,"Not Applicable",Gasoline,ICE,MTC,2654601
+P,"Not Applicable",Gasoline,PHEV,MTC,57366
+T1,Unknown,Electric,BEV,MTC,9
+T1,Unknown,Gasoline,ICE,MTC,915
+T1,1,Electric,BEV,MTC,552
+T1,1,Gasoline,ICE,MTC,287880
+T1,1,Gasoline,PHEV,MTC,465
+T2,Unknown,Electric,BEV,MTC,1
+T2,Unknown,Gasoline,ICE,MTC,3337
+T2,1,Electric,BEV,MTC,429
+T2,1,Gasoline,ICE,MTC,1165292
+T2,1,Gasoline,PHEV,MTC,4308
